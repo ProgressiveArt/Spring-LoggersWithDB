@@ -1,0 +1,7 @@
+
+Event{id=2, msg='ERROR event for user Richard Gordon from Seattle', date=23.11.2019 2:26:25}
+Event{id=4, msg='SOMEEVENTTYPETWO event for user Richard Gordon from Seattle', date=23.11.2019 2:26:25}
+Event{id=2, msg='ERROR event for user Ricahrd Gordon from Seattle', date=23.11.2019 2:33:29}
+Event{id=4, msg='SOMEEVENTTYPETWO event for user Ricahrd Gordon from Seattle', date=23.11.2019 2:33:29}
+Event{id=3, msg='ERROR event for user Ricahrd Gordon from Seattle', date=23.11.2019 8:00:49}
+Event{id=5, msg='SOMEEVENTTYPETWO event for user Ricahrd Gordon from Seattle', date=23.11.2019 8:00:49}
